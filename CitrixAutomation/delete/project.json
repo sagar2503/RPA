@@ -1,0 +1,16 @@
+{
+  "name": "CitrixAutomation",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Core.Activities": "18.2.6745.15248"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6835.34325",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
