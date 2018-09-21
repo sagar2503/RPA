@@ -1,0 +1,26 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "": [],
+    ".NETFramework,Version=v4.5.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\a647245\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "restore": {
+      "projectUniqueName": "CitrixAutomation",
+      "projectName": "CitrixAutomation",
+      "projectPath": "C:\\PrivateRepo\\RPA\\CitrixAutomation",
+      "packagesPath": "C:\\Users\\a647245\\.nuget\\packages\\",
+      "outputPath": "C:\\PrivateRepo\\RPA\\CitrixAutomation"
+    },
+    "frameworks": {
+      "net452": {}
+    }
+  }
+}
