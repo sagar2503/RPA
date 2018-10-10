@@ -60,7 +60,7 @@
       <Variable x:TypeArguments="x:String" Default="a647245" Name="SAACONUID" />
       <Variable x:TypeArguments="x:String" Default="December@25032004" Name="SAACONPASSWORD" />
       <Variable x:TypeArguments="x:String" Default="25031984" Name="ATOSPKIPASSWORD" />
-      <Variable x:TypeArguments="x:String" Default="qxp8787" Name="QXID" />
+      <Variable x:TypeArguments="x:String" Default="qxq0686" Name="QXID" />
       <Variable x:TypeArguments="x:String" Default="172.30.164.204" Name="BmwRDPToBeOpened" />
       <Variable x:TypeArguments="x:String" Default="www.google.com" Name="BmwURLToBeOpened" />
       <Variable x:TypeArguments="x:String" Default="4rfvbgt5" Name="BMWQXIDPASSWORD" />
