@@ -15,9 +15,9 @@
     "restore": {
       "projectUniqueName": "CitrixAutomation",
       "projectName": "CitrixAutomation",
-      "projectPath": "C:\\PrivateRepo\\RPA\\CitrixAutomation",
+      "projectPath": "C:\\PrivateRepo\\GitRepo\\RPA\\CitrixAutomation",
       "packagesPath": "C:\\Users\\a647245\\.nuget\\packages\\",
-      "outputPath": "C:\\PrivateRepo\\RPA\\CitrixAutomation"
+      "outputPath": "C:\\PrivateRepo\\GitRepo\\RPA\\CitrixAutomation"
     },
     "frameworks": {
       "net452": {}

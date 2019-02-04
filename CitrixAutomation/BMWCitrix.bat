@@ -1,1 +1,1 @@
-C:\Users\a647245\AppData\Local\UiPath\app-18.2.3\UiRobot.exe -file C:\PrivateRepo\RPA\CitrixAutomation\BMWCitrixAutomatedLogin_IE.xaml
+C:\Users\a647245\AppData\Local\UiPath\app-18.2.3\UiRobot.exe -file C:\PrivateRepo\GitRepo\RPA\CitrixAutomation\BMWCitrixAutomatedLogin_IE.xaml

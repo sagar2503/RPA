@@ -58,12 +58,12 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="https://fidm.access.it-solutions.atos.net/auth/Login?GASF=CERTIFICATE&amp;GAREASONCODE=-1&amp;GARESOURCEID=ga^default^global^resource&amp;GAURI=https://fidm.access.it%2Dsolutions.atos.net/GetAccess/Pmda%3FMDURI%3DaHR0cHM6Ly9hZG1pbmdhdGUtZW1lYS5zYWFjb24ubmV0L0NpdHJpeC9YZW5BcHAvYXV0aC9sb2dpbi5hc3B4%26SD%3D.saacon.net%26GARESOURCEID%3DAdmingateEmeaSaaconNet2%26APPID%3DAdmingateEmeaSaaconNet2" Name="FIDMURL" />
       <Variable x:TypeArguments="x:String" Default="a647245" Name="SAACONUID" />
-      <Variable x:TypeArguments="x:String" Default="December@25032004" Name="SAACONPASSWORD" />
+      <Variable x:TypeArguments="x:String" Default="December@25032005" Name="SAACONPASSWORD" />
       <Variable x:TypeArguments="x:String" Default="25031984" Name="ATOSPKIPASSWORD" />
-      <Variable x:TypeArguments="x:String" Default="qxq0686" Name="QXID" />
+      <Variable x:TypeArguments="x:String" Default="qxp8787" Name="QXID" />
       <Variable x:TypeArguments="x:String" Default="172.30.164.204" Name="BmwRDPToBeOpened" />
       <Variable x:TypeArguments="x:String" Default="www.google.com" Name="BmwURLToBeOpened" />
-      <Variable x:TypeArguments="x:String" Default="4rfvbgt5" Name="BMWQXIDPASSWORD" />
+      <Variable x:TypeArguments="x:String" Default="1qazxsw2" Name="BMWQXIDPASSWORD" />
     </Sequence.Variables>
     <ui:OpenBrowser UiBrowser="{x:Null}" BrowserType="IE" DisplayName="Open FIDM URL" Hidden="False" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" NewSession="True" Private="False" Url="[FIDMURL]">
       <ui:OpenBrowser.Body>
